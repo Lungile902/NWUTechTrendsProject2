@@ -31,3 +31,5 @@ POST method that will create a new project entry on the database, GET method tha
 ### Dawson, C. and Straub, B., 2016. Building tools with GitHub: customize your workflow. " O'Reilly Media, Inc.".
 ### Lock, A., 2023. ASP. NET core in Action. Simon and Schuster.
 ### Marcotte, C.H., 2024. Architecting ASP. NET Core Applications: An atypical design patterns guide for. NET 8, C# 12, and beyond. Packt Publishing Ltd.
+## TRAINING BADGE OBTAINED
+![Screenshot 2024-08-09 045952](https://github.com/user-attachments/assets/547bcd87-aac9-4004-b3b4-951486bae300)
