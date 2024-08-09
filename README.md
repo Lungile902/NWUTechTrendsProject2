@@ -34,5 +34,7 @@ POST method that will create a new project entry on the database, GET method tha
 ### raversy Media. (2019). Node.js API Tutorial | Building a RESTful CRUD API with Express and MongoDB. YouTube video. Available at: https://www.youtube.com/watch?v=vjf774RKrLc (Accessed: 1 August 2024).
 ### Codemy School. (2021). Build a RESTful JSON API with Ruby on Rails 6. YouTube video. Available at: https://www.youtube.com/watch?v=SDMSklXy2oQ (Accessed: 1 August 2024).
 ### reeCodeCamp.org. (2021). Build a REST API with Flask - Full Course. YouTube video. Available at: https://www.youtube.com/watch?v=GMppyAPbLYk (Accessed: 9 August 2024).
+### Cała, J. and Watson, P., 2010, June. Automatic software deployment in the azure cloud. In IFIP International Conference on Distributed Applications and Interoperable Systems (pp. 155-168). Berlin, Heidelberg: Springer Berlin Heidelberg.
+### Vijayakumar, T., 2018. Practical API architecture and development with azure and AWS. Apress, Berkeley, CA.
 ## TRAINING BADGE OBTAINED
 ![Screenshot 2024-08-09 045952](https://github.com/user-attachments/assets/547bcd87-aac9-4004-b3b4-951486bae300)
