@@ -31,5 +31,8 @@ POST method that will create a new project entry on the database, GET method tha
 ### Dawson, C. and Straub, B., 2016. Building tools with GitHub: customize your workflow. " O'Reilly Media, Inc.".
 ### Lock, A., 2023. ASP. NET core in Action. Simon and Schuster.
 ### Marcotte, C.H., 2024. Architecting ASP. NET Core Applications: An atypical design patterns guide for. NET 8, C# 12, and beyond. Packt Publishing Ltd.
+### raversy Media. (2019). Node.js API Tutorial | Building a RESTful CRUD API with Express and MongoDB. YouTube video. Available at: https://www.youtube.com/watch?v=vjf774RKrLc (Accessed: 1 August 2024).
+### Codemy School. (2021). Build a RESTful JSON API with Ruby on Rails 6. YouTube video. Available at: https://www.youtube.com/watch?v=SDMSklXy2oQ (Accessed: 1 August 2024).
+### reeCodeCamp.org. (2021). Build a REST API with Flask - Full Course. YouTube video. Available at: https://www.youtube.com/watch?v=GMppyAPbLYk (Accessed: 9 August 2024).
 ## TRAINING BADGE OBTAINED
 ![Screenshot 2024-08-09 045952](https://github.com/user-attachments/assets/547bcd87-aac9-4004-b3b4-951486bae300)
